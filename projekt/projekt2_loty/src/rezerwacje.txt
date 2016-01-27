@@ -1,0 +1,8 @@
+SO22G Sosnowiec 1936-05-12 Brzêczyszczykiewicz 124
+KR54R Katowice 2011-12-13 Jaworek 33
+TY340 Londyn 2012-02-03 Hastings 2
+SO22G Sosnowiec 1936-05-12 Lis 11
+KR54R Katowice 2011-12-13 Pieta 25
+KR54R Katowice 2011-12-13 Gajos 12
+TY340 Londyn 2012-02-03 Grec 36
+KR54R Katowice 2011-12-13 Maniek 0001
